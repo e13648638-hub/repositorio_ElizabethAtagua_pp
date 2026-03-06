@@ -25,5 +25,8 @@ public static void main(String[] args) {
         System.out.println("El sueldo bruto es: " + sbruto);
         System.out.println("Descuento total es: " + descuento);
         System.out.println("El sueldo neto es: " + sneto);
+        
+        // Actualización del programa
+        System.out.print("Examen parcial concluido");
     }
 }
